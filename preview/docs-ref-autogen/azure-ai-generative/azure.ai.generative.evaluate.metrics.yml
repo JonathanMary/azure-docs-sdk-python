@@ -2,7 +2,7 @@
 uid: azure.ai.generative.evaluate.metrics
 name: metrics
 fullName: azure.ai.generative.evaluate.metrics
-type: import
+type: rootImport
 classes:
 - azure.ai.generative.evaluate.metrics.PromptMetric
 packages:

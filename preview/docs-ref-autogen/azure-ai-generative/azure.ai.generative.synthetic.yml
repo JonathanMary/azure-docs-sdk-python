@@ -2,6 +2,6 @@
 uid: azure.ai.generative.synthetic
 name: synthetic
 fullName: azure.ai.generative.synthetic
-type: import
+type: rootImport
 modules:
 - azure.ai.generative.synthetic.qa
