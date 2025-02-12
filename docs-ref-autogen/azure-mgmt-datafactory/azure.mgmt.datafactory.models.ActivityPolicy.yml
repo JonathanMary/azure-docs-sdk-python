@@ -8,8 +8,8 @@ inheritances:
 summary: Execution policy for an activity.
 constructor:
   syntax: 'ActivityPolicy(*, additional_properties: Dict[str, MutableMapping[str,
-    Any]] | None = None, timeout: MutableMapping[str, Any] | None = None, retry: MutableMapping[str,
-    Any] | None = None, retry_interval_in_seconds: int | None = None, secure_input:
+    Any]] | None = None, timeout: MutableMapping[str, Any] | None = None, retry: int | None = None,
+    retry_interval_in_seconds: int | None = None, secure_input:
     bool | None = None, secure_output: bool | None = None, **kwargs: Any)'
   keywordOnlyParameters:
   - name: additional_properties
